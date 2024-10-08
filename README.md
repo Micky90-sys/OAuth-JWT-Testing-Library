@@ -15,7 +15,7 @@ Le principali dipendenze utilizzate in questo progetto includono:
 ## Esecuzione dei Test
 1. Clona il repository:
    ```bash
-   git clone https://github.com/nerlin/OAuth-JWT-Testing-Library.git
+   git clone https://github.com/Micky90-sys/OAuth-JWT-Testing-Library.git
 
 ## Naviga nella cartella del progetto:
 cd OAuth-JWT-Testing-Library
