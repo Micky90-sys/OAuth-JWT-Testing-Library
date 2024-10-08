@@ -1,0 +1,4 @@
+com\nerlin\oauthjwtlib\JwtRevocationTest.class
+com\nerlin\oauthjwtlib\OAuthLoginTest.class
+com\nerlin\oauthjwtlib\RoleBasedAccessTest.class
+com\nerlin\oauthjwtlib\JwtExpirationTest.class
